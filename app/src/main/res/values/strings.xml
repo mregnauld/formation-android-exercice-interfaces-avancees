@@ -1,0 +1,29 @@
+<resources>
+
+	<!-- Commun -->
+	<string name="app_name">Interfaces avancées</string>
+
+	<!-- Main -->
+	<string name="main_texte">
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel fringilla eros. Maecenas pellentesque dolor at nisl facilisis, nec maximus dui condimentum. Ut ac mauris eu odio aliquam rutrum et eu nisl. Fusce tincidunt finibus nisl et lacinia. Maecenas hendrerit eget nisl sed volutpat. Proin a dui ac orci fringilla fermentum vel eget est. Phasellus in ligula turpis.
+		\n\n
+		Nunc ornare lorem a tristique condimentum. Vivamus quam tortor, tincidunt ut felis sit amet, feugiat convallis ipsum. Duis et egestas dolor. Aenean ac fringilla velit, sit amet varius lacus. Vestibulum pellentesque bibendum metus id volutpat. Vestibulum lacinia risus in tellus consequat, eu molestie velit lacinia. Aenean eros sem, tincidunt in commodo quis, maximus ut magna. Proin id tellus fermentum, fermentum leo vel, eleifend metus. Vestibulum eleifend finibus eleifend. Morbi congue vitae arcu quis faucibus. Phasellus odio ex, mollis vitae erat ut, imperdiet faucibus risus. Suspendisse at eleifend elit. Maecenas posuere nibh velit, ut tincidunt velit tristique at. Fusce dignissim lacus at ultricies maximus. Duis sem tellus, tempus nec facilisis tempor, varius in erat. Vestibulum accumsan nisi in libero viverra suscipit.
+		\n\n
+		Quisque auctor dapibus elit ac facilisis. Sed eu eros ut metus lobortis condimentum. Sed tempor varius tortor, vel efficitur nunc tristique eu. Nullam ut ligula vel justo luctus accumsan nec eu enim. Donec ornare sem vel mi pharetra viverra. Aliquam pellentesque vestibulum vestibulum. In eget placerat dui. Nulla quis egestas velit. Fusce scelerisque sapien sit amet pellentesque egestas. Praesent interdum diam eu mauris efficitur facilisis.
+		\n\n
+		Donec pretium, augue quis auctor sollicitudin, enim turpis condimentum ex, non mattis orci massa vitae odio. Duis placerat, dolor sit amet consectetur efficitur, arcu est iaculis risus, sit amet feugiat tortor neque condimentum sapien. Integer placerat volutpat euismod. Vivamus quis tellus sagittis, scelerisque nunc in, rhoncus nulla. Phasellus hendrerit quis nibh ut ultrices. Maecenas mattis, quam et feugiat mattis, sapien enim accumsan risus, quis bibendum nunc purus in tortor. Ut euismod metus massa, sit amet tincidunt diam euismod et. Curabitur nec magna sit amet dui ultrices malesuada. Nullam ac arcu magna. Sed luctus augue quis vulputate efficitur. Sed pellentesque mi eget elit pellentesque accumsan.
+		\n\n
+		Donec eu efficitur ligula. Aliquam non felis tempor, ornare ipsum in, feugiat tortor. In sed metus purus. Vestibulum sagittis erat eget mauris tincidunt mattis. Vestibulum tristique urna faucibus purus pulvinar, eu rutrum purus pulvinar. Nam sed gravida diam, ut ullamcorper justo. Nam dapibus ipsum nunc, ut feugiat lorem tristique ut. Proin augue velit, iaculis ut venenatis quis, bibendum nec augue. Aenean mattis id leo ac suscipit. Pellentesque in mauris sed mi congue luctus. Cras vehicula augue vel enim tristique fermentum. Aenean volutpat, libero a fermentum luctus, dui nisl aliquam nisi, a lacinia turpis mauris sit amet libero.
+		\n\n
+		Suspendisse potenti. Cras euismod risus fermentum tellus dapibus elementum. Nulla sem augue, suscipit vel nisl a, tempor ultricies dui. Suspendisse suscipit leo dictum tellus commodo, sed fermentum lectus laoreet. Praesent dapibus tempor ipsum, vitae ultrices nisl tristique quis. In semper nulla interdum nisl imperdiet, pharetra hendrerit enim tincidunt. Mauris tellus metus, eleifend quis tristique at, sodales ut justo. Phasellus eget tincidunt est. Cras aliquam neque vel molestie ullamcorper.
+		\n\n
+		Praesent quis ullamcorper neque. Cras vel ipsum ut purus tempor faucibus. Vestibulum tincidunt rhoncus mi non placerat. Praesent auctor non turpis quis tincidunt. Quisque egestas rutrum ullamcorper. Vivamus facilisis dapibus enim vitae egestas. Aliquam vel metus magna. Suspendisse suscipit orci cursus volutpat condimentum. Suspendisse quis nunc ligula. Aliquam non placerat justo. Vestibulum euismod mi eu cursus accumsan. Sed sit amet bibendum lorem. Donec et lectus lobortis, egestas sem vitae, faucibus sem.
+		\n\n
+		Morbi ac molestie ligula, eget malesuada nulla. Cras nec rutrum augue. In et tincidunt nisl. Sed accumsan fringilla eleifend. Donec semper blandit dignissim. Praesent ornare luctus augue ac malesuada. Praesent at est quis nunc consequat tristique. Nullam quam enim, vulputate at scelerisque at, egestas a erat. Morbi convallis, massa ut porta pretium, elit metus consequat risus, quis laoreet urna eros sit amet quam. Etiam nec fermentum massa. Duis euismod arcu vel turpis consequat volutpat.
+		\n\n
+		Morbi ornare nisl sit amet eros congue scelerisque. Maecenas in augue ac leo placerat vehicula eget sed quam. Donec volutpat dictum urna, non euismod lacus sodales vel. Nulla neque tellus, ultrices ut pellentesque ac, aliquam non lorem. Morbi efficitur nunc in augue fringilla fringilla. Maecenas a ligula sed justo placerat sagittis id eget tortor. Suspendisse sollicitudin ipsum eu luctus tristique. Nunc odio lorem, condimentum sit amet odio vel, ultricies ornare risus. Etiam ultricies pretium mauris, vitae vulputate libero eleifend ac. Sed justo nulla, tincidunt eget egestas at, cursus id lorem. Sed tincidunt eu nibh in finibus. Ut nec eros pulvinar, ornare neque ac, pretium libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum malesuada consequat velit sed dignissim. Phasellus sollicitudin tellus sit amet orci consectetur fermentum. Donec eleifend finibus nulla, sit amet congue ipsum laoreet at.
+	</string>
+	<string name="main_dialogue_message">Nombre de mots : %1$d\nPage n°%2$d</string>
+	<string name="main_dialogue_ok">OK</string>
+
+</resources>
