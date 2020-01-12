@@ -1,11 +1,12 @@
 package com.formationandroid.interfacesavances;
 
 import android.os.Bundle;
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
-import android.support.v4.app.FragmentStatePagerAdapter;
 
 import java.util.List;
+
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentManager;
+import androidx.fragment.app.FragmentStatePagerAdapter;
 
 public class MainPagerAdapter extends FragmentStatePagerAdapter
 {
@@ -49,7 +50,7 @@ public class MainPagerAdapter extends FragmentStatePagerAdapter
 	 * @param position Position de la page
 	 * @return Texte
 	 */
-	public String getTextePage(int position)
+	String getTextePage(int position)
 	{
 		return listeTextes.get(position);
 	}
